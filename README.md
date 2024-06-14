@@ -6,7 +6,10 @@
 - 😄 Pronouns: he/him
 <!---
 - ⚡ Fun fact: ...
-
-nineteendo/nineteendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
+
+## Co-author message
+
+```none
+Co-authored-by: Nice Zombies <nineteendo19d0@gmail.com>
+```
